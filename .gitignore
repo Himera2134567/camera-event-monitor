@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+users.json
+events.json
+events/
+models/*.pt
+runs/
+build/
+dist/
+*.spec
+*.log
